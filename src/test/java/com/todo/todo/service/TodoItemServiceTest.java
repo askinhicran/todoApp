@@ -35,7 +35,6 @@ public class TodoItemServiceTest {
 		
 	}
 
-
 	@Before
 	public void setUp() throws Exception {
 		todoItemRepo = Mockito.mock(TodoItemRepository.class);
